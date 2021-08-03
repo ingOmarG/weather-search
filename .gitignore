@@ -1,0 +1,40 @@
+/backend-weather/node_modules
+/backend-weather/public/hot
+/backend-weather/public/storage
+/backend-weather/storage/*.key/
+/backend-weather/vendor/*
+/backend-weather/.env
+/backend-weather/.env.backup
+/backend-weather/.phpunit.result.cache
+/backend-weather/docker-compose.override.yml
+/backend-weather/Homestead.json
+/backend-weather/Homestead.yaml
+/backend-weathernpm-debug.log
+/backend-weather/yarn-error.log
+/backend-weather/.idea
+/backend-weather/.vscode
+
+
+
+
+# dependencies
+/front-weather/node_modules
+/front-weather/.pnp
+/front-weather/.pnp.js
+
+# testing
+/front-weather/coverage
+
+# production
+/front-weather/build
+
+# misc
+/front-weather/.DS_Store
+/front-weather/.env.local
+/front-weather/.env.development.local
+/front-weather/.env.test.local
+/front-weather/.env.production.local
+
+/front-weather/npm-debug.log*
+/front-weather/yarn-debug.log*
+/front-weather/yarn-error.log*
